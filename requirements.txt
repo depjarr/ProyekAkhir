@@ -8,4 +8,8 @@ scipy
 seaborn
 ultralytics
 opencv-python
-scikit-image
+torch
+numpy
+matplotlib
+pillow
+
